@@ -1,8 +1,19 @@
 # Conway's Game of Life (C++ with SFML & Eigen)
 
+
+
+
+
+
+
+
 This is a personal project that visualizes **Conway's Game of Life** using **C++**, **SFML** for graphics, and **Eigen** for matrix manipulation.
 
 This program is fully functional but the code is intentionally left unfinished and unpolished. In the next update, I will refactor and attempt to add an immediate mode GUI for more interactavity.
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/b68171c2-78d4-417b-b36f-82923c07b10f" width="400" />
+</div>
+    
 ##  Features
 
 - Dynamic grid updates with custom patterns (glider, blinker, pulsar, etc.)
