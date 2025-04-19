@@ -1,0 +1,30 @@
+ 
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Binaries
+*.exe
+*.out
+*.app
+
+
+# SFML CMake/Build stuff
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+prototype_update_function.cpp
+program
